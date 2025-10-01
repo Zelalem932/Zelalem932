@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Zelalem Belay**  
-💻 **Full Stack Web Developer** | 🎨 **UI/UX Enthusiast** | 🤖 **AI & ML Explorer**  
+💻 **Full Stack Web Developer**  
 🚀 Building modern web solutions & intelligent systems that make a difference.  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zelalem932&label=Profile%20Views&color=0e75b6&style=flat)
